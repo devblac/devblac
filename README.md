@@ -14,14 +14,23 @@ Oh, and I love plants 🌿 — more on that soon.
 
 ---
 
-### 📈 Stats and Streaks
+### 📈 Streaks
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devblac&show_icons=true&theme=default" height="150" />
   <img src="https://streak-stats.demolab.com?user=devblac&theme=default" height="150" />
 </p>
 
-<--
+---
+
+### 🧠 What I Care About
+
+- Transparent tech that builds trust
+- Using software to unlock access, equity, and imagination
+- Nature, simplicity, and bringing joy to code and life
+- Doing things differently — and doing them well
+
+---
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -33,6 +42,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  ⚡ “Bold tech by bold people. That’s the future.”
+</p>
+
+---
 
 ### 🔗 Let’s Connect
 
