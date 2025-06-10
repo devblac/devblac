@@ -14,6 +14,13 @@ Oh, and I love plants 🌿 — more on that soon.
 
 ---
 
+### 🔗 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/julian-isaac-blacher-abb00439)
+[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:julian.blacher@email.com)
+
+---
+<!--
 ### 📈 Streaks
 
 <p align="center">
@@ -21,7 +28,7 @@ Oh, and I love plants 🌿 — more on that soon.
 </p>
 
 ---
-
+-->
 ### 🧠 What I Care About
 
 - Transparent tech that builds trust
@@ -47,9 +54,3 @@ Here are some ideas to get you started:
   ⚡ “Bold tech by bold people. That’s the future.”
 </p>
 
----
-
-### 🔗 Let’s Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/julian-isaac-blacher-abb00439)
-[![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:julian.blacher@email.com)
