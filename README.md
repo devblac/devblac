@@ -20,15 +20,13 @@ Oh, and I love plants 🌿 — more on that soon.
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:julian.blacher@email.com)
 
 ---
-<!--
+
 ### 📈 Streaks
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=devblac&theme=default" height="150" />
 </p>
 
----
--->
 ### 🧠 What I Care About
 
 - Transparent tech that builds trust
