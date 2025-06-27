@@ -1,16 +1,33 @@
 <h1 align="center"> Hey there, I'm Julian 👋 </h1>
 
 <p align="center">
-  🧠 Code meets conviction | 🛠 Building bold things on the blockchain | 🌍 Let’s fix the world
+  👨‍💻 Full-stack engineer &nbsp;&nbsp;|&nbsp;&nbsp; 🔗 Blockchain enthusiast &nbsp;&nbsp;|&nbsp;&nbsp; 📚 Always learning, always building
 </p>
 
 ---
 
 ### 🧭 About Me
 
-I'm a full-stack engineer with 10+ years building secure, elegant, and impactful systems — mostly in fintech and web3. I believe in bold ideas, clean code, and software that makes life better. I lead, mentor, and build scalable solutions from MVPs to production.
+I'm a software engineer with over 10 years of experience building secure 🔐, scalable ⚙️, and thoughtful 💭 systems — mostly in fintech and web3.  
+I care about clean architecture 🧼, purposeful design 🎯, and writing code that earns its place. I’m driven by curiosity 🤔, conviction 💪, and the belief that technology can serve people better — when built with care 💚.
+Outside of work, you’ll probably find me tending to my plants 🌿, reading about space 🪐, equity ⚖️, or helping someone learn to code 🤝.
 
-Oh, and I love plants 🌿 — more on that soon.
+---
+
+<!--
+### 📈 Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devblac&theme=default" height="150" />
+</p>
+-->
+
+### 🧠 What I Care About
+
+- 🛡 Honest tech that builds trust through transparency  
+- ✍️ Code as a craft — with clarity, empathy, and intention  
+- 🧑‍🏫 Sharing knowledge, mentoring, and growing alongside others  
+- 🧱 Making steady progress, one small improvement at a time  
 
 ---
 
@@ -21,34 +38,7 @@ Oh, and I love plants 🌿 — more on that soon.
 
 ---
 
-### 📈 Streaks
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=devblac&theme=default" height="150" />
-</p>
-
-### 🧠 What I Care About
-
-- Transparent tech that builds trust
-- Using software to unlock access, equity, and imagination
-- Nature, simplicity, and bringing joy to code and life
-- Doing things differently — and doing them well
-
----
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p align="center">
-  ⚡ “Bold tech by bold people. That’s the future.”
+  🌱 “Still learning. Still building.”
 </p>
 
