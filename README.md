@@ -9,7 +9,9 @@
 ### 🧭 About Me
 
 I'm a software engineer with over 10 years of experience building secure 🔐, scalable ⚙️, and thoughtful 💭 systems — mostly in fintech.  
+
 I care about clean architecture, purposeful design 🎯, and writing code that earns its place. I’m driven by curiosity, conviction, and the belief that technology can serve people better, when built with care 💚.
+
 Outside of work, you’ll probably find me tending to my plants 🌿, reading about space 🪐, equity ⚖️, or helping someone learn to code 🤝.
 
 ---
