@@ -35,7 +35,7 @@ Outside of work, you’ll probably find me tending to my plants 🌿, reading ab
 
 ### 🔗 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/julian-isaac-blacher-abb00439)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/blacher)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:julian.blacher@email.com)
 
 ---
