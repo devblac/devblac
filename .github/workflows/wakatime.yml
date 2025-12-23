@@ -1,0 +1,54 @@
+name: Wakatime Weekly Stats
+
+on:
+  schedule:
+    # Runs every Monday at 8 AM UTC
+    - cron: '0 8 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update Wakatime Stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Wakatime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          USERNAME: devblac
+          REPOSITORY: ${{ github.repository }}
+          COMMIT_MESSAGE: "Update Wakatime coding stats"
+          STATS_SECTION: |
+            ---
+            ### 📊 Weekly Development Breakdown
+            <!--START_SECTION:waka-->
+            <!--END_SECTION:waka-->
+            ---
+
+          CODE_SECTION: |
+            ---
+            ### 🔢 Coding Stats
+            <!--START_SECTION:code-->
+            ```json
+            {
+              "languages": {
+                "JavaScript": {
+                  "percent": 45.2,
+                  "minutes": 1234
+                }
+              }
+            }
+            ```
+            <!--END_SECTION:code-->
+            ---
+
+          GRAPH_SECTION: |
+            ---
+            ### 📈 Activity Graph
+            <!--START_SECTION:activity-->
+            <!--END_SECTION:activity-->
+            ---
