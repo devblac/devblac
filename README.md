@@ -7,7 +7,6 @@
 *Building production systems since 2014 • Continuous learner*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devblac&label=Profile%20views&color=0e75b6&style=flat-square)](https://github.com/devblac)
-[![GitHub followers](https://img.shields.io/github/followers/devblac?label=Followers&style=flat-square&color=0e75b6)](https://github.com/devblac)
 
 </div>
 
@@ -42,22 +41,6 @@ I work across the full stack, selecting the right tools for each problem.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="35" height="35" title="Firebase"/>
 </p>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-### Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devblac&theme=github-compact&hide_border=true&area=true)
-
-### Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devblac&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide=prs,issues)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=devblac&theme=github-dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
 
 ---
 
